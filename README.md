@@ -4,7 +4,7 @@ Adds some visibility features to fields of type FieldtypeFieldsetOpen and Fields
 
 ## Visibility
 
-The module adds support for the following visibility settings to Fieldset (Open) and FieldsetPage:
+The module adds support for the following visibility settings to FieldtypeFieldsetOpen and FieldsetPage fields:
 
 * Open when populated + Closed when blank
 * Open when populated + Closed when blank + Load only when opened (AJAX) *
